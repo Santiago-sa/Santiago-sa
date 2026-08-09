@@ -88,7 +88,7 @@
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" />&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" />&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="40" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/powerautomate" alt="Power Automate" width="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Microsoft_Power_Automate.svg" alt="Power Automate" width="40" />&nbsp;&nbsp;
 </p>
 
 <p align="center">
