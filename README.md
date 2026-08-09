@@ -91,11 +91,6 @@
  <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Microsoft%20Power%20Automate.svg" alt="Power Automate" title="Power Automate" width="40" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/Santiago-sa">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Santiago-sa&langs_count=8&layout=compact&theme=nightowl&border_radius=10" alt="Top Languages" />
-  </a>
-</p>
 
 <p align="center">
   <a href="https://github.com/Santiago-sa">
