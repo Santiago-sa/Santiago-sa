@@ -42,50 +42,26 @@
 
 ### Languages
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++" width="40" />&nbsp;&nbsp;
+  <img src="..." alt="JavaScript" title="JavaScript" width="40" />&nbsp;&nbsp;
+  <img src="..." alt="TypeScript" title="TypeScript" width="40" />&nbsp;&nbsp;
+  <img src="..." alt="Python" title="Python" width="40" />&nbsp;&nbsp;
+  <img src="..." alt="C++" title="C++" width="40" />&nbsp;&nbsp;
 </p>
 
 ### Frontend
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" title="React" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" title="Tailwind CSS" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" title="Bootstrap" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" title="Flutter" width="40" />&nbsp;&nbsp;
+  <img src="..." alt="React" title="React" width="40" />&nbsp;&nbsp;
+  <img src="..." alt="HTML5" title="HTML5" width="40" />&nbsp;&nbsp;
+  <img src="..." alt="CSS3" title="CSS3" width="40" />&nbsp;&nbsp;
+  <img src="..." alt="Flutter" title="Flutter" width="40" />&nbsp;&nbsp;
 </p>
 
 ### Backend
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" title="Express.js" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" alt="NestJS" title="NestJS" width="40" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/swagger.svg" alt="Swagger" title="Swagger" width="40" />&nbsp;&nbsp;
-</p>
-
-### Databases
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" title="SQLite" width="40" />&nbsp;&nbsp;
-</p>
-
-### Tools
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" title="Git" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" title="VS Code" width="40" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/figma" alt="Figma" title="Figma" width="40" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/postman" alt="Postman" title="Postman" width="40" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/vite" alt="Vite" title="Vite" width="40" />&nbsp;&nbsp;
-</p>
-
-### Cloud & Automation
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" title="AWS" width="50" />&nbsp;&nbsp;
-  <span title="Power Automate">⚡</span>
+  <img src="..." alt="Node.js" title="Node.js" width="40" />&nbsp;&nbsp;
+  <img src="..." alt="Express.js" title="Express.js" width="40" />&nbsp;&nbsp;
+  <img src="..." alt="NestJS" title="NestJS" width="40" />&nbsp;&nbsp;
+  <img src="..." alt="Swagger" title="Swagger" width="40" />&nbsp;&nbsp;
 </p>
 
 <p align="center">
