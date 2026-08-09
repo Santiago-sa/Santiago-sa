@@ -30,12 +30,12 @@
 <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=Santiago-sa&theme=nightowl&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Santiago Alvarez's GitHub Trophies" />
 </p>
-<p align="center">
+<!-- <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Santiago-sa&theme=nightowl&radius=10" alt="Santiago-sa's Activity Graph" />
-</p>
-<div align="center">
+</p> -->
+<!-- <div align="center">
   <img src="profile-3d-city.svg" alt="3D City" width="100%" />
-</div>
+</div> -->
 
 
 ## 🛠️ Languages & Tools
